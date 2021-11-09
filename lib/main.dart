@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:untitled3/Search/search_dege.dart';
-import 'package:untitled3/fetch_data.dart';
 import 'package:untitled3/new_search.dart';
 
 void main() {
